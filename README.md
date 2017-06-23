@@ -1,4 +1,4 @@
 # COMP-540
-Statistical Machine Learning course review materials (made by me) 
+Description: Rice University Statistical Machine Learning course lecture notes. Feel free to use, as Devika does not post notes.
 
-Just some notes. Feel free to use for your studying pleasures, since Devika does not post notes.
+Date: 04.29.17
