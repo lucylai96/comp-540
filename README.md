@@ -1,4 +1,4 @@
 # comp 540 
-Rice University Statistical Machine Learning course lecture notes. Feel free to use, as Devika does not post notes.
+rice university comp 540: statistical machine learning course lecture notes.
 
-update: 04.29.17
+last update: 04.29.17
